@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2A
 - Tài khoản GitHub: https://github.com/HungReaper
 - Repo bài nộp (URL): https://github.com/HungReaper/K5-L23-DAY08-2A202603177-TrinhDucHung-AIPrelabel
-- Commit chốt bài (hash): <<>>
+- Commit chốt bài (hash): c4777af
 - Máy: Windows 11 Home, GPU NVIDIA GeForce RTX 3050 Ti Laptop 4 GB (CUDA, torch 2.15.0+cu132)
 - CVAT (Docker): v2.81.0
 
