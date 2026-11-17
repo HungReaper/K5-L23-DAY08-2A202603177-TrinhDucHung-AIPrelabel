@@ -1,0 +1,8 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,bo_sot,TDHung,"xe máy đỗ sau xe đẩy, sau lưng #16 (~x680-740,y245-335) chưa có box motorbike"
+img_003.jpg,,bo_sot,TDHung,"xe đạp của #3 person (người đội nón đang đạp) (~x555-590,y250-320) chưa có box bicycle"
+img_006.jpg,,bo_sot,TDHung,"cụm xe máy đỗ sát nhau sau #75: xe bạc có biển số (~x465-515,y330-480) chưa có box"
+img_006.jpg,,bo_sot,TDHung,"xe tay ga trắng phía sau #75 (~x300-345,y375-415) chưa có box; cụm xe đỗ dày gần camera (câu hỏi mở 2 v1.0)"
+img_014.jpg,,khong,TDHung,"đủ người + xe máy; box ôm sát"
+img_031.jpg,395,sai_vi_tri_kich_thuoc,TDHung,"#395 bicycle thiếu khay quả buộc trên baga nhô trái (~x135-242, ~107/578 px = 18% < 20%): theo 4.1.5 + CAL-03 phải gồm hàng -> cạnh trái ~x135"
+img_035.jpg,,bo_sot,TDHung,"xe tay ga trắng đỗ ngay sau #434 (~x675-720,y465-525) chưa có box motorbike"
