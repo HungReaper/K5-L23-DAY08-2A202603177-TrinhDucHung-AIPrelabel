@@ -1,2 +1,3 @@
 step,images,minutes,note
 gold_manual,4,21,"16:46-17:07, gán tay 4 ảnh gold trong CVAT, không AI"
+batch_review,24,44.4,"18:32-19:16 (bấm giờ 44:24.29), Part 4: pre-label + 12 bẫy, duyệt 24 ảnh batch trong CVAT"
